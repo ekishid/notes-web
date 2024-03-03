@@ -1,3 +1,5 @@
+import '@fortawesome/fontawesome-svg-core/styles.css';
+
 export default function Home() {
   return (
     <main className="grid min-h-screen grid-cols-4 items-start justify-between p-0">
